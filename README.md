@@ -1,5 +1,8 @@
 ### Olá 👋
 
+###### Sobre o Pedro
+5 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+
 ### Habilidades
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -14,7 +17,12 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub1406&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Login_Page&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
